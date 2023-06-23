@@ -1,7 +1,6 @@
 ## Quick Rundown
-- 👋 Hi, I’m @PuzzleZach, entering my 4th year in the tech industry as a jack-of-all engineer.
+- 👋 Hi, I’m @PuzzleZach, 3 years of experience in the tech industry as a generalist engineer with a focus on API programming.
 - 👀 I’m interested in game development and production,  with a focus on finding new ways to tell stories. 
-- 🌱 I’m currently learning "A Playful Production Process" and looking to expand my programming skills into C++.
 - 💞️ I’m looking to collaborate on any tools to assist creators
 
 ## Some things that I have done in the past:
