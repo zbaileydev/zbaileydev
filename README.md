@@ -1,7 +1,9 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lato&weight=800&size=22&duration=3000&pause=50&center=true&multiline=true&repeat=false&width=900&height=60&lines=I'm+Zach%2C+let's+code.;Systems+%26+Technical+Design)](https://git.io/typing-svg)
+
 ## Quick Rundown
 - 👋 Hi, I’m @PuzzleZach, 3 years of experience in the tech industry as a generalist engineer with a focus on API programming.
 - 👀 I’m interested in game development and production,  with a focus on finding new ways to tell stories. 
-- 💞️ I’m looking to collaborate on any tools to assist creators
+- 👯 I’m looking to collaborate on any tools to assist creators
 
 ## Some things that I have done in the past:
 - [EmThreat](https://github.com/PuzzleZach/EmThreat) is a tool to help system administrators identify new trends in vulnerable software. 
