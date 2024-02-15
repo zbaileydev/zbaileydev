@@ -13,3 +13,8 @@
 
 ## Current Work:
 - If you want more advanced samples, feel free to reach out and I can build examples on demand.
+
+## Future Work:
+- Working on a Camera RPG. More details coming soon.
+- Exploring creating a job site for game developers.
+- Planning to build a tool for tracking assets and licenses. 
