@@ -5,11 +5,11 @@
 - I’m interested in game development, any engine is fine with me as they all bring unique strengths. 
 - I’m looking to collaborate on any tools to assist creators and indie studios.
 
-## Some things that I have done in the past:
+## Fun Past Projects:
 - [EmThreat](https://github.com/PuzzleZach/EmThreat) is a tool to help system administrators identify new trends in vulnerable software. 
 - [TwitterFollowing](https://github.com/PuzzleZach/TwitterFollowing) is a quick utility to pull info of people you follow to save contact information.
 - [PyJira](https://github.com/PuzzleZach/PyJira) is a short utility to making YARA rule files from an input file. I do not know why I called it PyJira.
 - [Glass](https://github.com/PuzzleZach/lookingglass) is a set of utilities to automatically search through IOS apps, specifically the GlassDoor app.
 
-## Current work:
-- If you want more advanced samples, feel free to reach out.
+## Current Work:
+- If you want more advanced samples, feel free to reach out and I can build examples on demand.
