@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lato&weight=800&size=22&duration=3000&pause=50&center=true&multiline=true&repeat=false&width=900&height=60&lines=I'm+Zach%2C+let's+code.)](https://git.io/typing-svg)
 
 ## Quick Rundown
-- 👋 Hi, I’m @PuzzleZach, a programmer in the tech industry with a passion for building tools.
+- 👋 Hi, I’m Zach, a programmer in the tech industry with a passion for building tools.
 - I’m interested in game development, any engine is fine with me as they all bring unique strengths. 
 - I’m looking to collaborate on any tools to assist creators and indie studios.
 
