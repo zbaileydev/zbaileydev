@@ -1,16 +1,30 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lato&weight=800&size=22&duration=3000&pause=50&center=true&multiline=true&repeat=false&width=900&height=60&lines=I'm+Zach%2C+let's+code.)](https://git.io/typing-svg)
+# Hi, I'm Zach
 
-## Rundown
-- 👋 Hi, I’m Zach, I've been programming for over 4 years in a variety of languages from Python to C#. 
-- My main interest is game development, with a focus on building tools to help developers.
-- I currently lead the development of platform tools at a security company.
-- I'm open to work on indie games, if you need something done I can find a way to implement it.
+I'm a platform engineer who builds the automation behind 24x7 security services. Six years in security operations taught me how real systems fail, and I like building the tools that keep them running.
 
-## Game Development:
-- I'll try to keep my blog updated at https://zbaileydev.github.io/
-- [Extraction Game](https://github.com/zbaileydev/Extraction-Code) are scripts for a Helldivers inspired top-down shooter.
-- [Unity Tools](https://github.com/zbaileydev/UnityTools) will hold any tools I develop while solving problems I face in Unity.
-- [AI Spawning](https://github.com/zbaileydev/AI_Aware_Spawn) is a basic way to jumpscare players by spawning enemies where they are not looking, inspired by Turtle Rock Studios. 
+## What I do
+
+- Python automations, data pipelines, and internal tools
+- SOAR and SIEM platforms (Google SecOps, YARA-L), APIs, and cloud on GCP and AWS
+- Turning product requirements into shipped services alongside engineering and QA
+
+## Working on
+
+- A Go service that mirrors vendor API data locally to avoid rate limits and latency
+- Indie games with volunteer teams in Unity and Godot
+
+## Toolbox
+
+Python, Go, Bash, SQL, JavaScript, C#, Flask, Docker, GCP, AWS, Git, Jenkins
+
+## A note on my repositories
+
+Most of my production work lives in private repositories at past employers. The projects pinned below are public samples.
+
+## Find me
+
+- [LinkedIn](https://www.linkedin.com/in/zbaileydev)
+- [Game production portfolio](https://zbaileydev.wixsite.com/gameproduction)
 
 ## Past Projects:
 - [EmThreat](https://github.com/PuzzleZach/EmThreat) is a tool to help system administrators identify new trends in vulnerable software. 
