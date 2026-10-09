@@ -10,7 +10,7 @@ I'm a platform engineer who builds the automation behind 24x7 security services.
 
 ## Working on
 
-- A Go service that mirrors vendor API data locally to avoid rate limits and latency
+- A cybersecurity hiring platform
 - Indie games with volunteer teams in Unity and Godot
 
 ## Toolbox
